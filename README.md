@@ -72,11 +72,11 @@ ad_revenue_usd: Revenue generated (target variable)
 
 ### 🔄 Project Workflow
 
-1. Data Loading & Understanding
+### 1. Data Loading & Understanding
 
 Inspect structure, datatypes, and target variable
 
-2. Exploratory Data Analysis (EDA)
+### 2. Exploratory Data Analysis (EDA)
 
 Distribution analysis
 
@@ -84,7 +84,7 @@ Correlation analysis
 
 Trend & outlier detection
 
-3. Data Preprocessing
+### 3. Data Preprocessing
 
 Missing value handling
 
@@ -94,14 +94,14 @@ Categorical encoding
 
 Outlier treatment
 
-4. Feature Engineering
+### 4. Feature Engineering
 
 Engagement rate creation
 (likes + comments) / views
 
 Date-based features (day, month)
 
-5. Model Building
+### 5. Model Building
 
 Linear Regression
 
@@ -113,7 +113,7 @@ Random Forest Regressor
 
 Gradient Boosting Regressor
 
-6. Model Evaluation
+### 6. Model Evaluation
 
 R² Score
 
@@ -121,7 +121,7 @@ RMSE
 
 MAE
 
-7. Model Deployment
+### 7. Model Deployment
 
 Interactive Streamlit application
 
