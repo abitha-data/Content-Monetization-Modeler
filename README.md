@@ -6,3 +6,9 @@ An end-to-end machine learning regression project in Social Media Analytics that
 Social Media Analytics
 ### Project Type: 
 End-to-End Machine Learning Regression Project
+
+### 📌 Project Overview
+As video creators and media companies increasingly depend on platforms like YouTube for income, accurately predicting potential ad revenue is essential for business planning and content strategy.
+
+This project builds a machine learning regression model to predict YouTube ad revenue (ad_revenue_usd) for individual videos based on performance and contextual features.
+The final model is deployed using a Streamlit web application for interactive revenue prediction.
