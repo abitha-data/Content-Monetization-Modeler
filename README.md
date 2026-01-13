@@ -70,3 +70,58 @@ category, device, country: Contextual information
 
 ad_revenue_usd: Revenue generated (target variable)
 
+### 🔄 Project Workflow
+
+1. Data Loading & Understanding
+
+Inspect structure, datatypes, and target variable
+
+2. Exploratory Data Analysis (EDA)
+
+Distribution analysis
+
+Correlation analysis
+
+Trend & outlier detection
+
+3. Data Preprocessing
+
+Missing value handling
+
+Duplicate removal
+
+Categorical encoding
+
+Outlier treatment
+
+4. Feature Engineering
+
+Engagement rate creation
+(likes + comments) / views
+
+Date-based features (day, month)
+
+5. Model Building
+
+Linear Regression
+
+Ridge Regression
+
+Lasso Regression
+
+Random Forest Regressor
+
+Gradient Boosting Regressor
+
+6. Model Evaluation
+
+R² Score
+
+RMSE
+
+MAE
+
+7. Model Deployment
+
+Interactive Streamlit application
+
