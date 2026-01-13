@@ -31,20 +31,14 @@ Helps advertisers forecast ROI based on engagement metrics.
 
 ### 🛠️ Technologies Used
 
-Programming Language: Python
-
-Data Analysis & Processing: Pandas, NumPy
-
-Data Visualization: Matplotlib, Seaborn
+Python 3.x
 
 Machine Learning: Scikit-learn
 
-Modeling Techniques: Linear Regression, Ridge, Lasso, Random Forest, Gradient Boosting
+Data Analysis: Pandas, NumPy
 
-Model Evaluation: R² Score, RMSE, MAE
+Visualization: Matplotlib, Seaborn
 
-Web Application Framework: Streamlit
+Web App: Streamlit
 
-Development Environment: Jupyter Notebook
-
-Version Control: Git, GitHub
+Model Persistence: Joblib, Pickle
