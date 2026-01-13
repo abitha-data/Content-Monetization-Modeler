@@ -20,7 +20,7 @@ Predict the daily YouTube ad revenue for a video using historical engagement, co
 ### Content Strategy Optimization
 Identify content types that generate higher revenue.
 
-#### Revenue Forecasting
+### Revenue Forecasting
 Estimate expected income from future video uploads.
 
 ### Creator Analytics Tools
