@@ -29,6 +29,16 @@ Can be integrated into dashboards for YouTube creators.
 Ad Campaign Planning:
 Helps advertisers forecast ROI based on engagement metrics.
 
+### 🏆 Key Results
+
+Built and evaluated regression models to predict YouTube ad revenue (ad_revenue_usd).
+
+Identified key revenue drivers including views, watch time, engagement rate, and subscribers.
+
+Achieved strong model performance using R², RMSE, and MAE metrics.
+
+Deployed the final model as an interactive Streamlit web application.
+
 ### 🛠️ Technologies Used
 
 Python 3.x
@@ -124,4 +134,41 @@ MAE
 ### 7. Model Deployment
 
 Interactive Streamlit application
+
+### 📈 Model Evaluation Metrics
+
+R² Score – Explained variance
+
+RMSE – Penalizes large errors
+
+MAE – Average prediction error
+
+The final model was selected based on highest R² and lowest RMSE & MAE.
+
+### 🌐 Streamlit Application Features
+
+User input for video metrics
+
+Real-time ad revenue prediction
+
+Simple, intuitive UI
+
+Model-driven insights
+
+### 📁 Project Structure
+
+                      Content_Monetization_Modeler/
+                      │
+                      ├── data/
+                      │   └── youtube_monetization.csv
+                      │
+                      ├── notebook/
+                      │   └── content_monetization.ipynb
+                      │
+                      ├── app.py
+                      ├── model.pkl
+                      ├── requirements.txt
+                      └── README.md
+
+
 
