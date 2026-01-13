@@ -155,6 +155,25 @@ Simple, intuitive UI
 
 Model-driven insights
 
+### 📌 Key Insights
+
+Views, watch time, and engagement rate strongly influence ad revenue
+
+Video content monetizes better than static formats
+
+Temporal patterns affect daily revenue trends
+
+### ▶️ How to Run the Project
+
+1️⃣ Install dependencies
+                   
+                   pip install -r requirements.txt
+
+2️⃣ Run Streamlit App
+
+                   streamlit run app.py
+
+
 ### 📁 Project Structure
 
                       Content_Monetization_Modeler/
@@ -171,13 +190,4 @@ Model-driven insights
                       └── README.md
 
 
-### ▶️ How to Run the Project
-
-1️⃣ Install dependencies
-                   
-                   pip install -r requirements.txt
-
-2️⃣ Run Streamlit App
-
-                   streamlit run app.py
 
