@@ -54,3 +54,19 @@ Rows: ~122,000
 Source: Synthetic (created for learning purposes)
 
 Target Variable: ad_revenue_usd
+
+### Dataset Columns
+Column Name	Description
+video_id	Unique video identifier
+date	Daily performance date
+views	Total views
+likes	Total likes
+comments	Total comments
+watch_time_minutes	Watch time
+video_length_minutes	Video duration
+subscribers	Channel subscriber count
+category	Content category
+device	Viewing device
+country	Viewer country
+ad_revenue_usd	Target variable
+
