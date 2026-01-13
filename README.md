@@ -28,3 +28,23 @@ Can be integrated into dashboards for YouTube creators.
 
 Ad Campaign Planning:
 Helps advertisers forecast ROI based on engagement metrics.
+
+### 🛠️ Technologies Used
+
+Programming Language: Python
+
+Data Analysis & Processing: Pandas, NumPy
+
+Data Visualization: Matplotlib, Seaborn
+
+Machine Learning: Scikit-learn
+
+Modeling Techniques: Linear Regression, Ridge, Lasso, Random Forest, Gradient Boosting
+
+Model Evaluation: R² Score, RMSE, MAE
+
+Web Application Framework: Streamlit
+
+Development Environment: Jupyter Notebook
+
+Version Control: Git, GitHub
