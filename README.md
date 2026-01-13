@@ -42,3 +42,15 @@ Visualization: Matplotlib, Seaborn
 Web App: Streamlit
 
 Model Persistence: Joblib, Pickle
+
+### 📂 Dataset Information
+
+Dataset Name: YouTube Monetization Modeler
+
+Format: CSV
+
+Rows: ~122,000
+
+Source: Synthetic (created for learning purposes)
+
+Target Variable: ad_revenue_usd
