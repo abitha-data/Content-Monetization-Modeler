@@ -55,18 +55,18 @@ Source: Synthetic (created for learning purposes)
 
 Target Variable: ad_revenue_usd
 
-### Dataset Columns
-Column Name	Description
-video_id	Unique video identifier
-date	Daily performance date
-views	Total views
-likes	Total likes
-comments	Total comments
-watch_time_minutes	Watch time
-video_length_minutes	Video duration
-subscribers	Channel subscriber count
-category	Content category
-device	Viewing device
-country	Viewer country
-ad_revenue_usd	Target variable
+### Features:
+video_id: Unique identifier
+
+date: Upload/report date
+
+views, likes, comments: Performance metrics
+
+watch_time_minutes, video_length_minutes: Engagement metrics
+
+subscribers: Channel subscriber count
+
+category, device, country: Contextual information
+
+ad_revenue_usd: Revenue generated (target variable)
 
